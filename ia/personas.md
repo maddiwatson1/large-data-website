@@ -52,7 +52,7 @@ Tyler wants to get out of working retail full-time and spend the rest of his lif
 
 **Likes**
 
--Finding new spots to skate with his friends 
+- Finding new spots to skate with his friends 
 - Traveling
 
 **Dislikes**

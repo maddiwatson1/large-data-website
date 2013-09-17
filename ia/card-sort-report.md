@@ -45,6 +45,6 @@ The card sort was conducted by Maddi Watson on September 10th between the times 
 - No questions were asked at all.
 - Cassie didn't struggle with any topics, and Nigel was unsure of how to categorize or where to put the 'Skateboarders' card.
 - They both used the 'What is Skateboarding?' card as a header. Cassie had sorted everything into 4 categories where as Nigel used three; thus resulting in completely different groupings.
-- I would say that the groupings were kind of what I was expecting to a certain extent.
+- I would say that the groupings were kind of what I was expecting to a certain extent. I was expecting there to be more groupings and for the 'History' card to be its own group.
 - Cassie's results were similar to what I was looking at doing.
 - Both Cassie and Nigel seemed to of enjoyed performing the card sort, so that being said I felt good.

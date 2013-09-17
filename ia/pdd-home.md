@@ -4,11 +4,12 @@
 
 - Description of what skateboarding is
 - Search
+- Upcoming competitions
+- Primary Navigation
 
 ## 2. Medium
 
 - Website branding, logo
-- Primary navigation
 - Skateboarding images
 
 ## 3. Low

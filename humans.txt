@@ -1,0 +1,29 @@
+# humanstxt.org
+
+# TEAM
+
+Designer & Developer: Maddi Watson <wats0209@algonquinlive.com>
+GitHub: https://github.com/maddiwatson1
+Twitter: @maddiwatson1
+Location: Ottawa, Canada
+
+---
+
+# THANKS
+
+Images by Robert Bejil <http://www.flickr.com/photos/robnas/>
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+- Sublime Text
+- Dreamweaver
+- Git + GitHub
+- Markdown
+
+## Hosting
+
+- Jekyll

@@ -1,0 +1,9 @@
+# http://robotstxt.org
+
+# Show search engines where to find our sitemap
+Sitemap: http://shredskateboarding.com/sitemap.xml
+
+User-Agent: *
+
+# Bloack images from showing in search results
+Disallow: /img

@@ -1,6 +1,7 @@
 html {
 	font-family: Helvetica, sans-serit;
 	font-size: 14px;
+	
 }
 
 body {
@@ -79,8 +80,20 @@ a:active {text-decoration:none; color: #654A35;}
 		margin-top: 30px;
 	}
 	
-	
-	
+}
+
+@media only screen and (min-width: 75em) {
+
+	html {
+		margin: 0 85px 0 85px;
+	}
+}
+
+@media only screen and (min-width: 84.375em) {
+
+	html {
+		margin: 0 100px 0 100px;
+	}
 }
 
 

@@ -155,12 +155,14 @@ p {
 		width: 100%;
 	}
 	
+}
+
+@media only screen and (max-width: 38em) {
+	
 	.unit-spacer-3 {
 		width: 50%
 	}
-	
 }
-
 
 @media only screen and (min-width: 38em) and (max-width: 60em) {
 	

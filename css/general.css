@@ -143,8 +143,8 @@ p {
 		margin-top: 30px;
 	}
 	
-	unit-s-1  {
-		width: 50%;
+	.unit-s-1 {
+		display: block;
 	}
 }
 

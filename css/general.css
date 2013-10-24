@@ -143,14 +143,9 @@ p {
 		width: 100%;
 	}
 	
-	.unit-spacer-2 {
-		margin-right: 10px;
-		margin-top: 30px;
-	}
-	
 }
 
-@media only screen and (max-width: 38.0625em) {
+@media only screen and (min-width: 38em) {
 	
 	.unit-spacer-2 {
 		margin-right: 10px;

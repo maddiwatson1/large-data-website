@@ -157,7 +157,7 @@ p {
 	
 }
 
-@media only screen and (max-width: 38em) {
+@media only screen and (min-width: 38em) {
 	
 	.unit-spacer-3 {
 		width: 50%
